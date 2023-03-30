@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/AMSADODemo/test%20pipeline/_apis/build/status/esarath.pipelines-java?branchName=main)](https://dev.azure.com/AMSADODemo/test%20pipeline/_build/latest?definitionId=31&branchName=main)
 
 # Contributing
 
